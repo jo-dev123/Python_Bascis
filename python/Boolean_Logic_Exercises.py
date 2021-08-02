@@ -23,7 +23,7 @@ lenght_of_string = len("What's my length?")
 print(lenght_of_string)
 
 # Convert the string "i am shouting" to uppercase.
-to_upper = "i am shouting".upper
+to_upper = "i am shouting".upper()
 print(to_upper)
 
 # Convert the string "1000" to the number 1000.
